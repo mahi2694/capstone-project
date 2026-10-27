@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Playwright page objects",
+    "description": "Keeping locators in one place",
+    "body": "Page objects keep locators and actions out of the tests.",
+    "tags": ["playwright", "pom"]
+  },
+  {
+    "title": "Custom fixtures in practice",
+    "description": "Sharing setup and teardown",
+    "body": "Fixtures provide page objects and clean up the data a test creates.",
+    "tags": ["fixtures"]
+  },
+  {
+    "title": "Storage state authentication",
+    "description": "Log in once, reuse everywhere",
+    "body": "Storage state saves the browser session so tests skip the login form.",
+    "tags": ["auth", "storage-state", "login"]
+  }
+]

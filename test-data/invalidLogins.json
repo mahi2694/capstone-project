@@ -1,0 +1,7 @@
+{
+  "unknownEmail": {
+    "email": "nobody.registered@example.com",
+    "password": "WrongPass123!"
+  },
+  "expectedError": "email or password is invalid"
+}
